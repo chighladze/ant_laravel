@@ -1,0 +1,31 @@
+<?php
+// project file path: ant_laravel/resources/lang/ru/footer.php
+
+return [
+  'description' => 'Защитите свой дом или бизнес с помощью систем видеонаблюдения, обеспечивающих круглосуточную безопасность и душевное спокойствие.',
+  'home' => 'Главная',
+  'about' => 'О нас',
+  'services' => 'Услуги',
+  'brands' => 'Бренды',
+  'projects' => 'Проекты',
+  'blog' => 'Блог',
+  'blog_default' => 'Обычный блог',
+  'blog_style2' => 'Стиль блога 2',
+  'blog_single' => 'Отдельная статья',
+  'contact' => 'Контакты',
+  'language' => 'Язык',
+  'system_consultation' => 'Консультация по системе',
+  'installation_services' => 'Услуги установки',
+  'system_configuration' => 'Настройка системы',
+  'monitoring_services' => 'Услуги мониторинга',
+  'storage_backup' => 'Хранение и резервное копирование',
+  'open_hours' => "Мы открыты",
+  'open_schedule' => 'Понедельник - Суббота 08.00 - 18.00',
+  'workshop_location' => 'Адрес мастерской',
+  'workshop_address' => '100 S Main St, Нью-Йорк, NY',
+  'send_message' => 'Отправить сообщение',
+  'terms_conditions' => 'Условия и положения',
+  'privacy_policy' => 'Политика конфиденциальности',
+  'copyright' => '© :year - ANT. Все права защищены.',
+  'developed_by' => 'Разработчик: Георгий Чигладзе',
+];
