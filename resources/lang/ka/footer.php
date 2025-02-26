@@ -22,7 +22,7 @@ return [
   'open_hours' => "ჩვენ ვმუშაობთ",
   'open_schedule' => 'ორშაბათი - შაბათი 08.00 - 18.00',
   'workshop_location' => 'მისამართი',
-  'workshop_address' => 'საქართველო, თბილისი, 0179, 12, წინამძღვრიშვილის ქ.',
+  'workshop_address' => 'საქართველო, თბილისი',
   'send_message' => 'მოგვწერეთ',
   'terms_conditions' => 'წესები და პირობები',
   'privacy_policy' => 'პირადი მონაცემების დაცვა',

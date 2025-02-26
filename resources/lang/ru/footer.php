@@ -22,7 +22,7 @@ return [
   'open_hours' => "Мы открыты",
   'open_schedule' => 'Понедельник - Суббота 08.00 - 18.00',
   'workshop_location' => 'Адрес',
-  'workshop_address' => 'Грузия, Тбилиси, 0179, ул. Цинамдзгвришвили, 12',
+  'workshop_address' => 'Грузия, Тбилиси',
   'send_message' => 'Отправить сообщение',
   'terms_conditions' => 'Условия и положения',
   'privacy_policy' => 'Политика конфиденциальности',

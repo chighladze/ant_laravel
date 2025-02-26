@@ -26,7 +26,7 @@ return [
   'open_hours' => "We're Open",
   'open_schedule' => 'Monday - Saturday 08.00 - 18.00',
   'workshop_location' => 'Location',
-  'workshop_address' => 'Georgia, Tbilisi, 0179, 12, Tsinamdzgvrishvili St.',
+  'workshop_address' => 'Georgia, Tbilisi',
   'send_message' => 'Send a Message',
   'terms_conditions' => 'Terms & Conditions',
   'privacy_policy' => 'Privacy Policy',
