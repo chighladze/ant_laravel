@@ -11,7 +11,7 @@ class PageController extends Controller
 {
     public function home()
     {
-        Log::info("🚀 Web Route: App::getLocale(): " . App::getLocale() . " | Session: " . Session::get('locale'));
+        // Log::info("🚀 Web Route: App::getLocale(): " . App::getLocale() . " | Session: " . Session::get('locale'));
         return view('home');
     }
 
@@ -99,7 +99,7 @@ class PageController extends Controller
 
     public function testLanguage()
     {
-        Log::info('Session locale: ' . session('locale'));
+        // Log::info('Session locale: ' . session('locale'));
         return 'Current Language: ' . App::getLocale() . ' | Session: ' . session('locale');
     }
 
